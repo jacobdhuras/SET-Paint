@@ -1,0 +1,74 @@
+﻿<!--
+FILE: MainWindow.xaml
+PROJECT: Windows Programming Final Project
+PROGRAMMERS: Jacob Huras, Anthony Bastos
+DESCRIPTION:
+    This file controls the layout of the MainWindow.
+-->
+    
+<Window x:Class="SETPaint.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:SETPaint"
+    xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+    mc:Ignorable="d"
+    Title="Untitled - SETPaint" Height="747.4" Width="944.5">
+<Grid Background="WhiteSmoke">
+    <Menu x:Name="menu" Height="24" VerticalAlignment="Top">
+        <MenuItem x:Name="fileToolStripMenuItem" Header="File">
+            <MenuItem x:Name="newToolStripMenuItem" Header="New" HorizontalAlignment="Left" Width="140"/>
+            <MenuItem x:Name="openToolStripMenuItem" Header="Open..." HorizontalAlignment="Left" Width="140" Click="openToolStripMenuItem_Click"/>
+            <MenuItem x:Name="saveAsToolStripMenuItem" Header="Save As..." HorizontalAlignment="Left" Width="140" Click="saveAsToolStripMenuItem_Click"/>
+            <Separator HorizontalAlignment="Left" Height="2" Width="140"/>
+            <MenuItem x:Name="closeToolStripMenuItem" Header="Close" HorizontalAlignment="Left" Width="140" Click="closeToolStripMenuItem_Click"/>
+        </MenuItem>
+        <MenuItem x:Name="editToolStripMenuItem" Header="Edit">
+            <MenuItem x:Name="clearToolStripMenuItem" Header="Clear" Click="clearToolStripMenuItem_Click"/>
+        </MenuItem>
+        <MenuItem x:Name="helpToolStripMenuItem" Header="Help">
+            <MenuItem x:Name="aboutToolStripMenuItem" Header="About..." HorizontalAlignment="Left" Width="140" Click="aboutToolStripMenuItem_Click"/>
+        </MenuItem>
+    </Menu>
+    <xctk:ColorPicker Name="ClrPcker_Stroke" SelectedColorChanged="ClrPcker_Stroke_SelectedColorChanged" Margin="0,250,10,0" HorizontalAlignment="Right" Width="95" Height="22" VerticalAlignment="Top"></xctk:ColorPicker>
+    <ScrollViewer Margin="10,29,110,26" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+        <Border x:Name="CanvasBorder" BorderBrush="Black" BorderThickness="1" Height="604" Width="766">
+            <Canvas x:Name="DrawingArea" Cursor="Cross" MouseDown="DrawingArea_MouseDown" MouseMove="DrawingArea_MouseMove" MouseUp="DrawingArea_MouseUp" ClipToBounds="True" Margin="0,0,0,0">
+                <Canvas.Background>
+                    <SolidColorBrush Color="White"/>
+                </Canvas.Background>
+            </Canvas>
+        </Border>
+    </ScrollViewer>
+    <GroupBox x:Name="penSizeGroupBox" Header="Pen Size" Margin="0,121,10,0" VerticalAlignment="Top" Height="96" HorizontalAlignment="Right" Width="95">
+        <Grid HorizontalAlignment="Left" Height="73" VerticalAlignment="Top"
+		Width="85" Margin="0,0,-2,0">
+            <RadioButton x:Name="small" Content="Small" HorizontalAlignment="Left"
+			Margin="10,10,0,0" VerticalAlignment="Top" IsChecked="True" Checked="small_Checked"/>
+            <RadioButton x:Name="medium" Content="Medium" HorizontalAlignment="Left"
+			Margin="10,30,0,0" VerticalAlignment="Top" Checked="medium_Checked"/>
+            <RadioButton x:Name="large" Content="Large" HorizontalAlignment="Left"
+			Margin="10,50,0,0" VerticalAlignment="Top" Checked="large_Checked"/>
+        </Grid>
+    </GroupBox>
+    <GroupBox x:Name="toolGroupBox" Header="Tool" Margin="0,20,10,0" VerticalAlignment="Top" Height="96" HorizontalAlignment="Right" Width="95">
+        <Grid HorizontalAlignment="Left" Height="73" VerticalAlignment="Top"
+            Width="85" Margin="0,0,-2,0">
+            <RadioButton x:Name="line" Content="Line" HorizontalAlignment="Left"
+                Margin="10,10,0,0" VerticalAlignment="Top" IsChecked="True" Checked="line_Checked"/>
+            <RadioButton x:Name="rectangle" Content="Rectangle" HorizontalAlignment="Left"
+                Margin="10,30,0,0" VerticalAlignment="Top" Checked="rectangle_Checked"/>
+            <RadioButton x:Name="ellipse" Content="Ellipse" HorizontalAlignment="Left"
+                Margin="10,50,0,0" VerticalAlignment="Top" Checked="ellipse_Checked"/>
+        </Grid>
+    </GroupBox>
+    <xctk:ColorPicker x:Name="ClrPcker_Fill" SelectedColorChanged="ClrPcker_Fill_SelectedColorChanged" Margin="0,318,10,0" HorizontalAlignment="Right" Width="95" Height="22" VerticalAlignment="Top"/>
+    <Label x:Name="label" Content="Stroke" Margin="0,224,61,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="44"/>
+    <Label x:Name="label1" Content="Fill" Margin="0,292,80,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="25"/>
+    <StatusBar Height="26" VerticalAlignment="Bottom">
+        <StatusBarItem x:Name="mouseStatus" Content=""/>
+    </StatusBar>
+
+</Grid>
+</Window>
