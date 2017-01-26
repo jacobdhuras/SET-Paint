@@ -1,0 +1,61 @@
+c:\users\administrator\documents\visual studio 2015\Projects\SETPaint\SETPaint\bin\Debug\SETPaint.exe.config
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.exe.config
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\SETPaint.pdb
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.csprojResolveAssemblyReference.cache
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\MainWindow.g.cs
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\App.g.cs
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint_MarkupCompile.cache
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint_MarkupCompile.lref
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\MainWindow.baml
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.g.resources
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.csproj.GenerateResource.Cache
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.exe
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\obj\Debug\SETPaint.pdb
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\abastos5870\Desktop\SETPaint\SETPaint\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\SETPaint.exe.config
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\SETPaint.exe
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.DataGrid.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\SETPaint.csprojResolveAssemblyReference.cache
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\AboutBox.g.cs
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\MainWindow.g.cs
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\App.g.cs
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\SETPaint_MarkupCompile.cache
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\SETPaint_MarkupCompile.lref
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\AboutBox.baml
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\MainWindow.baml
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\SETPaint.g.resources
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\SETPaint.Properties.Resources.resources
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\SETPaint.csproj.GenerateResource.Cache
+F:\_dev\SET 2015-2017\Windows and Mobile Programming\SETPaint\SETPaint\obj\Debug\SETPaint.pdb
